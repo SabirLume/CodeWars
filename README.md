@@ -16,3 +16,12 @@ countBy(2,5) === [2,4,6,8,10]
 Testing Result with: Testing for result with count_by(13, 8)
 
 My Experience: I had difficulties figuring out what I needed to multiply in order for me to get the x argument
+
+
+                                            **String Repeat**
+Write a function called repeatStr which repeats the given 
+string string exactly n times.
+repeatStr(6, "I") // "IIIIII"
+repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
+
+My Experience: I had difficulties understanding how to make the string repeat iself. Realized multiplying a number by a string will only get you 'NaN' because multiplying in JS only works with integers
