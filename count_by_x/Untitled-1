@@ -1,0 +1,15 @@
+//function that  counts two arguments 
+function countBy(x, n) {
+  var z = [];
+  for( var i = 1; i <= n; i++){
+    //multiplying times the iteration 
+    var mult = x * i;
+    //this pushes the mult variable onto an array called z.
+    z.push(mult);
+    //console logging my list
+    console.log(mult)
+  }
+  
+  return z;
+  
+}
