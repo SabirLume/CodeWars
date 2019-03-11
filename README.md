@@ -42,4 +42,4 @@ If Alex gets 10 or more hoops, return the string "Great, now move on to tricks".
 
 If he doesn't get 10 hoops, return the string "Keep at it until you get it".       
 
-My Experience: I found this challenge fairly easy. I did come run into some syntax problem when making my conditional. Something I need to work on.
+My Experience: I found this challenge fairly easy. I did come run into some syntax problem when making my conditional. Something I need to work on. I put a itteration when I did not need one.
