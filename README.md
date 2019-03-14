@@ -42,7 +42,7 @@ If Alex gets 10 or more hoops, return the string "Great, now move on to tricks".
 
 If he doesn't get 10 hoops, return the string "Keep at it until you get it".       
 
-My Experience: I found this challenge fairly easy. I did come run into some syntax problem when making my conditional. Something I need to work on. I put a itteration when I did not need one.
+My Experience: I found this challenge fairly easy. I did run into some syntax problem when making my conditional. Something I need to work on. I put a itteration when I did not need one.
 
                                          **Beginner Series #4 Cockroach**
 The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
@@ -68,3 +68,21 @@ A hero is on his way to the castle to complete his mission. However, he's been t
 Return True if yes, False otherwise :)
 
 My Experience: I had an idea of how to solve the problem it took a couple of tries with the parameters and using less than operators to figure this problem out.
+
+                                    **Ones and Zeros**
+Given an array of one's and zero's convert the equivalent binary value to an integer.
+
+Eg: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1.
+
+Examples:
+
+Testing: [0, 0, 0, 1] ==> 1
+Testing: [0, 0, 1, 0] ==> 2
+Testing: [0, 1, 0, 1] ==> 5
+Testing: [1, 0, 0, 1] ==> 9
+Testing: [0, 0, 1, 0] ==> 2
+Testing: [0, 1, 1, 0] ==> 6
+Testing: [1, 1, 1, 1] ==> 15
+Testing: [1, 0, 1, 1] ==> 11
+
+My Experience: During this codewars I learned how to reverse an array with .reverse() also how to use exponents using Math.pow().
