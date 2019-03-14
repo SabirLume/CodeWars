@@ -43,3 +43,28 @@ If Alex gets 10 or more hoops, return the string "Great, now move on to tricks".
 If he doesn't get 10 hoops, return the string "Keep at it until you get it".       
 
 My Experience: I found this challenge fairly easy. I did come run into some syntax problem when making my conditional. Something I need to work on. I put a itteration when I did not need one.
+
+                                         **Beginner Series #4 Cockroach**
+The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
+
+For example:
+
+cockroachSpeed(1.08) == 30
+Note! The input is a Real number (actual type is language dependent) and is >= 0. The result should be an Integer.
+
+My Experience: This problem took more longer to do because I forgot to return the result so the function will be able to show a result
+
+                                        ** Switch it up **
+When provided with a number between 0-9, return it in words.
+Input :: 1
+Output :: "One".
+Try using "Switch" statements.
+
+My Experience: I had to look up how to use switch statements. Was not diffficult to do.
+
+                                        **Is he gunna survive?**
+A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
+
+Return True if yes, False otherwise :)
+
+My Experience: I had an idea of how to solve the problem it took a couple of tries with the parameters and using less than operators to figure this problem out.
