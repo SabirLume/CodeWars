@@ -86,3 +86,13 @@ Testing: [1, 1, 1, 1] ==> 15
 Testing: [1, 0, 1, 1] ==> 11
 
 My Experience: During this codewars I learned how to reverse an array with .reverse() also how to use exponents using Math.pow().
+
+
+                                    ***Beginner But Grow
+                                    
+
+Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
+
+[1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
+
+My Experience: I had trouble understanding the problem. I need to go back to this problem and practice.
