@@ -88,7 +88,7 @@ Testing: [1, 0, 1, 1] ==> 11
 My Experience: During this codewars I learned how to reverse an array with .reverse() also how to use exponents using Math.pow().
 
 
-                                    ***Beginner But Grow
+                                    ***Beginner But Grow***
                                     
 
 Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
@@ -96,3 +96,19 @@ Given a non-empty array of integers, return the result of multiplying the values
 [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
 
 My Experience: I had trouble understanding the problem. I need to go back to this problem and practice.
+
+                                    ***Sort By String Length***
+Write a function that takes an array of strings as an argument and returns a sorted array containing the same strings, ordered from shortest to longest.
+
+For example, if this array were passed as an argument:
+
+["Telescopes", "Glasses", "Eyes", "Monocles"]
+
+Your function would return the following array:
+
+["Eyes", "Glasses", "Monocles", "Telescopes"]
+
+All of the strings in the array passed to your function will be different lengths, so you will not have to decide how to order multiple strings of the same length.
+
+My Experience: 
+I had trouble using the sort method and trying to figure out how to accomplish this code wars.
