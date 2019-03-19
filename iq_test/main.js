@@ -15,14 +15,33 @@
 // Test.assertEquals(iqTest("1 2 2"), 1);
 
 
+// function iqTest(numbers){
+//     // ...
+//     let list = numbers.split(' ')
+//     console.log(list)
+//     for(var i = 0 ; i < list.length; i++){
+//     if(Number(list[i]) % 2 !== 0){
+//       return i + 1
+    
+//     }
+//     }
+//   }
+
 function iqTest(numbers){
     // ...
     let list = numbers.split(' ')
-    console.log(list)
-    for(var i = 0 ; i < list.length; i++){
-    if(Number(list[i]) % 2 !== 0){
-      return i + 1
+    let odds = list.filter(item => item % 2 === 1)
+    let evens = list.filter(item => item % 2 === 0)
     
+    console.log(odds,evens)
+    
+    if(odds.length > 1) {
+     // We know its an even
+     //[8]
+     return list.indexOf(evens[0]) + 1
+    } else {
+      // we know it's an odd
+      //[7]
+      return list.indexOf(odds[0]) + 1
+  
     }
-    }
-  }
