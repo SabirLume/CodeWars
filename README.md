@@ -126,3 +126,5 @@ Test.assertEquals(iqTest("1 2 2"), 1);
 My Experience: 
 
 For this coding challenge it took me a while to do. I did not realize that the given parameters was a string and not a array of numbers. I learned how to use .split(' ') in order to separate everything in the string that was being entered.
+
+My first answer was wrong. I misunderstood the question for the problem. The problem was asking for the "odd" number out of the array of numbers. Meaning the one number that is not even out of the list of ODD numbers OR the number that is NOT odd out of a list of even numbers.
