@@ -128,3 +128,16 @@ My Experience:
 For this coding challenge it took me a while to do. I did not realize that the given parameters was a string and not a array of numbers. I learned how to use .split(' ') in order to separate everything in the string that was being entered.
 
 My first answer was wrong. I misunderstood the question for the problem. The problem was asking for the "odd" number out of the array of numbers. Meaning the one number that is not even out of the list of ODD numbers OR the number that is NOT odd out of a list of even numbers.
+
+                                            ***Regex Validate Pin Code***
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+
+If the function is passed a valid PIN string, return true, else return false.
+
+eg:
+
+validatePIN("1234") === true
+validatePIN("12345") === false
+validatePIN("a234") === false
+
+My Experience: I knew what I had to do, but it took a while to get to the solution. I had to return false for NaN.
