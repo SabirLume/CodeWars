@@ -170,3 +170,12 @@ Note: Don't forget to convert the percent parameter as a percentage in the body 
 
 My Experience: I had difficulty translating my algebraic formula into a function that JS could run.
 
+                                            ***Summing a number's digits***
+Write a function named sumDigits which takes a number as input and returns the sum of the absolute value of each of the number's decimal digits. For example:
+
+  sumDigits(10);  // Returns 1
+  sumDigits(99);  // Returns 18
+  sumDigits(-32); // Returns 5
+Let's assume that all numbers in the input will be integer values.
+
+My Experience:  I knew the logic behind how to figure out this project but I had problems without how to add numbers once I made the numbers into strings in order for me to try to add them.
