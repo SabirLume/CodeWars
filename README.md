@@ -179,3 +179,18 @@ Write a function named sumDigits which takes a number as input and returns the s
 Let's assume that all numbers in the input will be integer values.
 
 My Experience:  I knew the logic behind how to figure out this project but I had problems without how to add numbers once I made the numbers into strings in order for me to try to add them.
+
+                                        ***Beginner Series #3 Sum of Numbers***
+Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
+
+Note: a and b are not ordered!
+
+Examples
+GetSum(1, 0) == 1   // 1 + 0 = 1
+GetSum(1, 2) == 3   // 1 + 2 = 3
+GetSum(0, 1) == 1   // 0 + 1 = 1
+GetSum(1, 1) == 1   // 1 Since both are same
+GetSum(-1, 0) == -1 // -1 + 0 = -1
+GetSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
+
+My Experience: My logic for figuring out this problem was there I had problems trying to figure out how to execute my ideas. Was thinking of using a .sort method, but could not figure out how to use it with a declaration function.
