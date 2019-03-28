@@ -212,3 +212,14 @@ there are 10 matches in the championship
 0 <= y <= 4
 
 My Experience: I used split to get rid of the : in the array.
+
+                                ***Opposite Number***
+Very simple, given a number, find its opposite.
+
+Examples:
+
+1: -1
+14: -14
+-34: 34
+
+My Experience: Simple problem. 
