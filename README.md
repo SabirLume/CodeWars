@@ -249,3 +249,19 @@ summation(8) -> 36
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8
 
 My Experience: I found this code wars simple to figure out .
+
+                          ***Sum of Positive***
+You get an array of numbers, return the sum of all of the positives ones.
+
+Example [1,-4,7,12] => 1 + 7 + 12 = 20
+
+Note: if there is nothing to sum, the sum is default to 0.
+
+                        ***Reverse List Order***
+In this kata you will create a function that takes in a list and returns a list with the reverse order.
+
+Examples
+reverseList([1,2,3,4]) == [4,3,2,1]
+reverseList([3,1,5,4]) == [4,5,1,3]
+
+My Experience: Used the reverse method.
