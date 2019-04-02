@@ -265,3 +265,7 @@ reverseList([1,2,3,4]) == [4,3,2,1]
 reverseList([3,1,5,4]) == [4,5,1,3]
 
 My Experience: Used the reverse method.
+
+
+                          ***Even or Odd***
+    This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.
