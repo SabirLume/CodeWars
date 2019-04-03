@@ -269,3 +269,11 @@ My Experience: Used the reverse method.
 
                           ***Even or Odd***
     This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.
+
+
+
+                          ***Binary Addition***
+Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition.
+
+The binary number returned should be a string.
+
