@@ -277,3 +277,6 @@ Implement a function that adds two numbers together and returns their sum in bin
 
 The binary number returned should be a string.
 
+                          ***Remove Explamation Marks***
+Write function RemoveExclamationMarks which removes all exclamation marks from a given string.
+
