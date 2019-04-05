@@ -11,5 +11,4 @@ console.log(array)
   return array.join('');
 
 }
-
 Test.assertSimilar(removeExclamationMarks("Hello World!"), "Hello World");
