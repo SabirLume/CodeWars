@@ -289,3 +289,6 @@ Return true if the array contains the value, false if not.
 
                                ***Divisble***
 Complete the function which takes two arguments and returns all numbers which are divisible by given divisor. First argument is an array of numbers and the second is the divisor.
+
+                                ***Hello World***
+Create a function called 'greet' returning "hello world".
